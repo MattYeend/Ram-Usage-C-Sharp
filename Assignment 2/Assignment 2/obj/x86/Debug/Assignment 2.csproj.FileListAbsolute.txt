@@ -1,0 +1,15 @@
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\bin\Debug\ResourceMonitor.exe
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\bin\Debug\ResourceMonitor.pdb
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\MainWindow.baml
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\MainWindow.g.cs
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\App.g.cs
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2_MarkupCompile.cache
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.g.resources
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Properties.Resources.resources
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.exe
+D:\Uni\Uni work\Year Two\Both Semesters\ICP-2052\ASSIGNMENTS\Assignment Two\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
